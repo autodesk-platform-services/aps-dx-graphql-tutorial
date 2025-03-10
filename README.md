@@ -6,6 +6,6 @@ It is based on [just the docs](https://just-the-docs.com) for documentation and 
 
 This tutorial leverages mostly the [Data Exchange Model Explorer](https://aps-dx-explorer.autodesk.io/) in all the steps.
 
-You can check the tutorial at [https://autodesk-platform-services.github.io/aps-aecdm-tutorial/](https://autodesk-platform-services.github.io/aps-aecdm-tutorial/)
+You can check the tutorial at [https://autodesk-platform-services.github.io/aps-dx-graphql-tutorial/](https://autodesk-platform-services.github.io/aps-dx-graphql-tutorial/)
 
 Give it a try and let us know your opinion ;
