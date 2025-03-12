@@ -17,7 +17,8 @@ Using the new mutation API is very simple and in case of Revit model, it require
 
 ***id of the Revit file*** - which can be found when query the folder content and looking at the needed id within items list
 ***id of the folder*** - this is the way specifying the place where the exchange will be created and it can be the same or it can be any other folder within the same project.
-***ViewName*** - so that the system knows which View to use as a reference
+***ViewName*** - so that the system knows which View to use as a reference.
+
 Having all this, the call will look like this:
 
 ![Mutation with Revit file](../../assets/images/revit_mutation.png)
