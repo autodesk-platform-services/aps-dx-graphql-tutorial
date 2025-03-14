@@ -81,7 +81,7 @@ Let's traverse this structure through our queries in 4 steps:
 
 The query to retrieve the hubs is quite simple and it is available in the first pane of the explorer. To list the hubs available you just need to click in the first panel of the explorer and then run the query, like the gif below:
 
-![GET hubs](../../assets/images/gethubs.gif)
+![GET hubs](../../assets/images/getHubs.gif)
 
 Now make sure you can see in the response the needed hub. If the needed hub doesn't appear here, it means that the client id used for this application was not provisioned on needed hub and you'll need to [provision access in your ACC hub](https://get-started.aps.autodesk.com/#provision-access-in-other-products) to the client id `HKVjhUXySDGLGJimolxAgDdpoCuZLlql`.
 
