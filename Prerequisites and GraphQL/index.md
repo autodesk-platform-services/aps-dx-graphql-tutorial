@@ -16,6 +16,8 @@ Before starting, ensure you meet a few key prerequisites to follow this tutorial
 
 - You'll need to [provision access in your ACC hub](https://get-started.aps.autodesk.com/#provision-access-in-other-products) to the client id `HKVjhUXySDGLGJimolxAgDdpoCuZLlql`. This is the client id of the APS app used by the [explorer](https://aps-dx-explorer.autodesk.io/) that we'll be using in this tutorial.
 
+- If you want to follow along with the same design, you can download [this archive containing a Revit design](https://autodesk-adn-transfer.s3.us-west-2.amazonaws.com/ADN+Extranet/AEC/public_downloads/OfficeBuilding.zip) in three different versions, which is very helpful exploring the Data Exchange features.
+
 Now let's cover a quick introduction on GraphQL.
 
 # GraphQL
